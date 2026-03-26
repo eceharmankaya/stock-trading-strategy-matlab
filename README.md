@@ -1,5 +1,7 @@
 # stock-trading-strategy-matlab
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%The dataset is not included. You can use your own stock price data in the same format.%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 In this project I worked with stock price data and tried to build a very simple trading strategy.
 
 I selected one stock and one year of data. Then I filtered the data and fixed missing values (NaN) manually by using neighbor values (average of previous and next value).
